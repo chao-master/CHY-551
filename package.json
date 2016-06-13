@@ -1,0 +1,19 @@
+{
+  "name": "changelings.js",
+  "version": "1.0.0",
+  "description": "Werewolf game for discord",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chao-master/CHY-551.git"
+  },
+  "author": "ripp_",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chao-master/CHY-551/issues"
+  },
+  "homepage": "https://github.com/chao-master/CHY-551#readme"
+}
